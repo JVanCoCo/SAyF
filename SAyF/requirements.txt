@@ -44,10 +44,10 @@ hstspreload==2024.4.1
 html5lib==1.1
 httpcore==0.9.1
 httplib2==0.22.0
-httpx==0.13.3
+httpx
 huggingface-hub==0.20.3
 hyperframe==5.2.0
-idna==3.6
+idna
 imageio==2.34.0
 importlib-metadata==7.0.1
 importlib-resources==6.1.1
